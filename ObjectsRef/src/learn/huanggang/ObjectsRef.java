@@ -9,6 +9,7 @@ public class ObjectsRef {
 		a.setB(b);
 		b.setA(a);
 		System.out.println(a);
+		System.out.println(b);
 	}
 
 }
